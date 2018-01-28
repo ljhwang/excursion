@@ -1,0 +1,24 @@
+h1, h2, h3, p {font-family: "Verdana"}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  text-align: center;
+}
+h2 {
+  font-size: 42px;
+  font-weight: normal: 300;
+  color: white;
+}
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+div {
+  background-color: black;
+  text-align: center;
+}
