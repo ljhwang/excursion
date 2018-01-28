@@ -12,11 +12,13 @@ h2 {
 }
 h3 {
   font-size: 21px;
+  font-weight: normal;
   color: gray;
 }
 .download {
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 div {
   background-color: black;
